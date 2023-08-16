@@ -2,6 +2,9 @@
 
 Welcome to the Library App Client! This section serves as the frontend component of the application designed for effective management of library resources and member interactions.
 
+![image](https://github.com/pushkarraj7/library_management_system/assets/86008182/f6bc6821-3b45-49c1-8939-c05914049c59)
+
+
 
 ## Server Repository
 To access the server repository for this project, please visit: [Library Management System - Server Repository](https://github.com/pushkarraj7/library_management_system_server)
